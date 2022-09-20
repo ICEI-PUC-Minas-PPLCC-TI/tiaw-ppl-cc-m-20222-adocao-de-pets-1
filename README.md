@@ -7,7 +7,9 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 * Felipe Luiz Parreiras Lima
 * Daniel de Moura Renda
 * Luiz Felipe Ferreira De Lacerda
-* Nome completo do aluno 4
+* Pedro Melo Menezes
+* Ian Carlos Santos da Gama
+* Matheus Cleto Paes
 
 ## Professores responsáveis
 
