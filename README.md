@@ -10,6 +10,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 * Pedro Melo Menezes
 * Ian Carlos Santos da Gama
 * Matheus Cleto Paes
+* Gabriel Lopes Messias
 
 ## Professores responsáveis
 
