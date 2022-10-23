@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../NavBar/navBar.css">
+    <link rel="stylesheet" href="anuncioPet.css">
+    <title>Anúncio Pet</title>
+</head>
+<body>
+    <div class="navBar">
+        <div class="navContainer">
+          <button class="navButton" onclick="window.location.href = '../landingPage/index.html'">Home</button>
+          <button class="navButton">Adoção de Pets</button>
+          <button class="navButton">PetShop</button>
+          <button class="navButton">Dicas e Curiosidades</button>
+        </div>
+      </div>
+    <div class="AnuncioForm">
+        <form id="formAnuncio" class="formAnuncio" >
+            <h1>Cadastro Pet</h1>
+            <div class="formInputContainer">
+            <label>Nome:</label>
+            <input type="text" id="name" class="formInput" placeholder="Bob" required>
+        </div>
+        <div class="formInputContainer">
+            <label>Endereço:</label>
+            <input type="text" id="address" class="formInput" placeholder="Rodovia Anel Rodoviário Celso Mello Azevedo" required>
+        </div>
+        <div class="formInputContainer">
+            <label>Raça:</label>
+            <input type="text" id="type" class="formInput" placeholder="Pug" required>
+        </div>
+        <div class="formInputContainer">
+            <label>Idade:</label>
+            <input type="number" id="age" class="formInput" placeholder="5 anos" required>
+        </div>
+        <div class="formInputContainer">
+            <label>Descrição:</label>
+            <input type="text" id="description" class="formInputDescription" placeholder="Encontrado na rua, vacinado, muito bem tratado, carinhoso">
+        </div>
+            <button type="submit" id="save" onclick="salvar()" class="buttonSlvr">Salvar</button>
+        </form>
+    </div>
+    <script src="anuncioPet.js"></script>
+</body>
+</html>
