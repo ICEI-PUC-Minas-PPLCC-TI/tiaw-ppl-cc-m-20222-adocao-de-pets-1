@@ -1,0 +1,112 @@
+body{
+    margin: 0%;
+}
+.main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+.banner{
+    background-color: #ff862f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.bannerImage{
+ width: 80%;
+}
+.txtContainer{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    text-align: center;
+}
+.menuContainer{
+    background-color: #ff862f;
+    width: 100%;
+    height: 10rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menuButtonContainer{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.menuButton{
+    background-color: #fa7110;
+    width: 20%;
+    height: 80%;
+    border: none;
+    border-bottom: solid 0.5rem;
+    border-bottom-color: #ff862f;
+    font-size: 100%;
+    font-weight: bold;
+    color: white;
+    border-radius: 20rem;
+}
+.txtContainer2{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    text-align: center;
+}
+.anunciarButton{
+    background-color: #ff862f;
+    width: 20%;
+    height: 3rem;
+    border: none;
+    font-size: 100%;
+    font-weight: bold;
+    color: white;
+    border-radius: 20rem;
+    margin-bottom: 3rem;
+}
+.anunciarButton:hover{
+    background-color: #ff984f;
+    border-bottom-color: #000000;
+}
+
+.navBar{
+    background-color: #ff862f;
+    width: 100%;
+    height: 4.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+    top: 0%;
+}
+.navContainer{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navButton{
+    background-color: #ff862f;
+    width: 20%;
+    height: 100%;
+    border: none;
+    border-bottom: solid 0.5rem;
+    border-bottom-color: #ff862f;
+    font-size: 100%;
+    font-weight: bold;
+    color: white;
+}
+.navButton:hover{
+    background-color: #ff984f;
+    border-bottom-color: #fa7110;
+}
