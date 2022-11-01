@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../anunciopetshop/style4.css">
+    <link rel="stylesheet" href="style4.css">
+    <title>Anúncio PetShop</title>
+</head>
+<body>
+    <div class="navBar">
+        <div class="navContainer">
+            <button class="navButton" onclick="window.location.href = '../home/home.html'">Home</button>
+            <button class="navButton" onclick="window.location.href = '../adocao.html'">Adoção de Pets</button>
+            <button class="navButton" onclick="window.location.href = '../index.html'">PetShop</button>
+            <button class="navButton" onclick="window.location.href = '../dicas.html'">Dicas e Curiosidades</button>
+        </div>
+      </div>
+    <div class="AnuncioForm">
+        <form id="formAnuncio" class="formAnuncio" >
+            <h1>Cadastro de Petshop</h1>
+            <div class="formInputContainer">
+            <label>Nome do Petshop:</label>
+            <input type="text" id="name" class="formInput" placeholder="Petshop Cão Feliz" required>
+        </div>
+        <div class="formInputContainer">
+            <label>Endereço:</label>
+            <input type="text" id="address" class="formInput" placeholder="Avenida Brasil nº1779" required>
+        </div>
+        <div class="formInputContainer">
+            <label>Telefone:</label>
+            <input type="text" id="phone" class="formInput" placeholder="(31)9xxxx-xxxx" required>
+        </div>
+        <div class="formInputContainer">
+            <label>Opções de Serviço:</label>
+            <input type="text" id="options" class="formInput" placeholder="Compras na loja·Retirada na loja·Entrega" required>
+        </div>
+        <div class="formInputContainer">
+            <label>Descrição:</label>
+            <input type="text" id="description" class="formInputDescription" placeholder="Ambiente espasoço, aconchegante e organizado. Traga seu pet!!">
+        </div>
+            <button type="submit" id="save" onclick="salvarps()" class="buttonSlvr">Salvar</button>
+        </form>
+    </div>
+    <script src="anunciopetshop.js"></script>
+</body>
+</html>
