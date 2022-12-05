@@ -165,7 +165,7 @@ O User Flow abaixo será apresenta de forma sequencial, onde cada print represen
 
 # Metodologia
 
-![Metodologia](imaages/../images/met.png)
+![Metodologia](imaages/../images/metodo.png)
 
 ## Divisão de Papéis
 
