@@ -1,11 +1,11 @@
 # Informações do Projeto
 `ADOTZ`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nos dias atuais, é muito veiculado em redes sociais mensagens perguntando acerca de pessoas aptas a adotar um animal. Dito isso, a dor que estamos focados em solucionar é a forma de se adotar um Pet, problema tal está geralmente atrelado as maneiras mais convencionais de como isso atualmente funciona, como por exemplo canis, clínicas veterinárias e também Petshops, maneiras nada eficientes comparadas a plataforma que desenvolvemos.
 
-`CURSO` 
+`TIAW - Ciência da Computação` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Criada durante o trabalho da materia de TIAW(Trabalho Interdisciplinar de Aplicações Web) do curso de Ciência da Computação da PUC Minas. A Adotz é um projeto que busca auxiliar pessoas na hora de adotar um pet. Dentro do nosso site você encontrará, uma aba com varias opções de Pets para se adotar, diversas opções de petshops para cuidar dos seus pets e uma pagina recheada com dicas e curiosidades para o melhor cuidado do seu amiguinho.
 
 ## Participantes
 
