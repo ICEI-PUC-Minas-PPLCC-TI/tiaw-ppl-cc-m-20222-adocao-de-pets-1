@@ -9,13 +9,13 @@ Criada durante o trabalho da materia de TIAW(Trabalho Interdisciplinar de Aplica
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+* Felipe Luiz Parreiras Lima
+* Daniel de Moura Renda
+* Luiz Felipe Ferreira De Lacerda
+* Pedro Melo Menezes
+* Ian Carlos Santos da Gama
+* Matheus Cleto Paes
+* Gabriel Lopes Messias
 
 # Estrutura do Documento
 
