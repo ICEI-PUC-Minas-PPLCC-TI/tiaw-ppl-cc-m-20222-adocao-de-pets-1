@@ -5,8 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../NavBar/navBar.css">
-    <link rel="stylesheet" href="anuncioPet.css">
-    <title>Anúncio Pet</title>
+    <link rel="stylesheet" href="anuncioPetshop.css">
+    <title>Anúncio PetShop</title>
 </head>
 <body>
     <div class="navBar">
@@ -20,10 +20,10 @@
       <div class="main">
     <div class="AnuncioForm">
         <form id="formAnuncio" class="formAnuncio" >
-            <h1>Cadastro Pet</h1>
+            <h1>Cadastro PetShop</h1>
             <div class="formInputContainer">
             <label>Nome:</label>
-            <input type="text" id="name" class="formInput" placeholder="Bob" required>
+            <input type="text" id="name" class="formInput" placeholder="Adotz" required>
         </div>
         <div class="formInputContainer">
             <label>Imagem:</label>
@@ -35,21 +35,17 @@
             <input type="text" id="address" class="formInput" placeholder="Rodovia Anel Rodoviário Celso Mello Azevedo" required>
         </div>
         <div class="formInputContainer">
-            <label>Raça:</label>
-            <input type="text" id="type" class="formInput" placeholder="Pug" required>
-        </div>
-        <div class="formInputContainer">
-            <label>Idade:</label>
-            <input type="number" id="age" class="formInput" placeholder="5 anos"  min="0" max="30" required>
+            <label>Site:</label>
+            <input type="text" id="site" class="formInput" placeholder="www.adotz.com.br" required>
         </div>
         <div class="formInputContainer">
             <label>Descrição:</label>
-            <input type="text" id="description" class="formInputDescription" placeholder="Encontrado na rua, vacinado, muito bem tratado, carinhoso">
+            <input type="text" id="description" class="formInputDescription" placeholder="O Melhor serviço de adoção de pet!!">
         </div>
             <button type="submit" id="save" onclick="salvar()" class="buttonSlvr">Salvar</button>
         </form>
     </div>
 </div>
-    <script src="anuncioPet.js"></script>
+    <script src="AnuncioPetshop.js"></script>
 </body>
 </html>

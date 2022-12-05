@@ -6,34 +6,35 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="listaPet.css">
     <link rel="stylesheet" href="../NavBar/navBar.css">
-    <title>Document</title>
+    <title>Listagem Pet</title>
 </head>
-<body>
-    <div class="navBar">
-        <div class="navContainer">
-          <button class="navButton" onclick="window.location.href = '../Landingpage/index.html'">Home</button>
-          <button class="navButton" onclick="window.location.href = '../ListaPet/listaPet.html'">Adoção de Pets</button>
-          <button class="navButton">PetShop</button>
-          <button class="navButton">Dicas e Curiosidades</button>
-        </div>
-      </div>
+<body onload="filtrar('')">
+  <div class="navBar">
+    <div class="navContainer">
+      <button class="navButton" onclick="window.location.href = '../Landingpage/index.html'">Home</button>
+      <button class="navButton" onclick="window.location.href = '../ListaPet/listaPet.html'">Adoção de Pets</button>
+      <button class="navButton" onclick="window.location.href = '../listaPetshop/listaPetShop.html'">PetShop</button>
+      <button class="navButton" onclick="window.location.href = '../listaDicas/listaDicas.html'">Dicas e Curiosidades</button>
+    </div>
+  </div>
       <div class="main">
+        <h1 style="color: white;">PETS</h1>
         <div class="inputMenu">
           <div class="boxFilter">
-        <select name="filter" id="filter">
-            <option value="">Nenhum</option>
+        <select name="filter" id="filter" class="inputList">
+            <option value="">Todos</option>
             <option value="name">Nome</option>
             <option value="address">Endereço</option>
             <option value="type">Tipo</option>
             <option value="age">Idade</option>
             <option value="description">Descrição</option>
           </select>
-        <button class="btsListar" id="btnListar" onclick="filtrar(document.getElementById('filter').value)">Listar</button>
+        <button class="btsListar inputList" id="btnListar" onclick="filtrar(document.getElementById('filter').value)" >Listar</button>
       </div>
-        <button class="anunciarButton" onclick="window.location.href = '../AnuncioPet/anuncioPet.html'" >Anuncie Aqui!!</button>
+        <button class="anunciarButton inputList" onclick="window.location.href = '../AnuncioPet/anuncioPet.html'" >Anuncie Aqui!!</button>
       </div>
         <div class="boxListaPet" id="boxListaPet">
-
+    
         </div>
       </div>
       
