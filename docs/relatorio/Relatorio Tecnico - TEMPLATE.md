@@ -160,7 +160,8 @@ As interfaces foram projetadas apartir de necessidades, que foram colhidas de po
 
 O User Flow abaixo será apresenta de forma sequencial, onde cada print representará 
 ![Exemplo User Flow Home](imaages/../images/home.png)
-![Exemplo User Flow Cadastro Pet](imaages/../images/cadastro pet.png)
+![Exemplo User Flow Cadastro Pet](imaages/../images/cadpet.png)
+![Exemplo User Flow Cadastro Pet](imaages/../images/petlist.png)
 
 
 ## Wireframes
