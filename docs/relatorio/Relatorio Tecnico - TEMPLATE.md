@@ -88,38 +88,20 @@ Terceiramente, no grupo dos infulenciadores, estão os adestradores, que de form
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+O grupo "adoção de pets" tem como finalidade criar um site focado em adoção e compra de animais, com um foco maior na adoção, já que é um problema que aflige diversos 
+animais em situações de rua e resgatados. De acordo com as pesquisas realizadas por nós, descobrimos que pessoas que não possuem um pet ainda, tem a tendência de 
+querer um para lhe fazer companhia e diversificar a rotina. Além disso, existem aqueles que gostam avidamente desses seres e gostam de ter diversos bichos por perto. 
+Desta forma, escolhemos esse tema pela falta de ferramentas de pesquisa disponíveis online, com um foco maior no público jovem-adulto, que faz um maior uso da internet 
+para se informar.
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
+**Exemplo de Persona**
+
+![Exemplo de Persona](imaages/../images/ass.jpg)
 
 
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-> 
-> **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
 
 ## Histórias de Usuários
