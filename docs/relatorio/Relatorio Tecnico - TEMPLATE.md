@@ -58,6 +58,8 @@ Criada durante o trabalho da materia de TIAW(Trabalho Interdisciplinar de Aplica
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
+
+> A dor que buscamos resolver, com o desenvolvimento do site, é a falta de meios para se realizar a adoção de um pet aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
 > Descreva também o contexto em que essa aplicação será usada, se
