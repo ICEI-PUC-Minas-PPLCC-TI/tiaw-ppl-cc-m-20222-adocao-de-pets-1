@@ -159,7 +159,7 @@ As interfaces foram projetadas apartir de necessidades, que foram colhidas de po
 ## User Flow
 
 O User Flow abaixo será apresenta de forma sequencial, onde cada print representará 
-> ![Exemplo de UserFlow](images/uO home.jpg)
+![Exemplo User Flow Home](imaages/../images/home.png)
 
 
 ## Wireframes
