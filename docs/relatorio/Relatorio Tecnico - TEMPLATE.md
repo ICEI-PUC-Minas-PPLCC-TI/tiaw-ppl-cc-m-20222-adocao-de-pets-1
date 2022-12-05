@@ -62,10 +62,12 @@ essas aplicações existem, porém não trazem um experiência agradável ao usu
 
 
 
- **Links úteis que apresentam informações relevantes sobre o assunto:**:
+ **Links úteis que apresentam informações relevantes sobre o assunto**:
   [Abandono de animais e superlotação do canil causam preocupação em São Leopoldo](https://www.jornalvs.com.br/noticias/regiao/2022/06/29/abandono-de-animais-e-superlotacao-do-canil-causam-preocupacao-em-sao-leopoldo.html)
- [Deficiência como sentença: cães esperam há anos por adoção no DF]([https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655](https://www.metropoles.com/distrito-federal/deficiencia-como-sentenca-caes-esperam-adocao-no-df))
- [Superlotação preocupa ONGs que cuidam de animais no ABC]([https://www.euax.com.br/2018/09/brainstorming/](http://www.metodista.br/rronline/noticias/cidades/2011/08/superlotacao-preocupa-ongs-que-cuidam-de-animais-no-abc))
+  
+ [Deficiência como sentença: cães esperam há anos por adoção no DF](https://www.metropoles.com/distrito-federal/deficiencia-como-sentenca-caes-esperam-adocao-no-df)
+ 
+ [Superlotação preocupa ONGs que cuidam de animais no ABC](http://www.metodista.br/rronline/noticias/cidades/2011/08/superlotacao-preocupa-ongs-que-cuidam-de-animais-no-abc)
 
 ## Objetivos
 
